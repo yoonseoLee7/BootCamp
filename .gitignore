@@ -1,0 +1,9 @@
+Saved/
+Intermediate/
+DerivedDataCache/
+.vscode/
+*.mp4
+*.log
+*.tmp
+*.zip
+*.exe
