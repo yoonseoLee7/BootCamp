@@ -1,3 +1,13 @@
+# Unreal Engine 에셋 무시
+#*.uasset
+#*.umap
+#*.fbx
+#*.wav
+#*.mp4
+#*.avi
+
+# 임시/캐시 디렉토리 무시
+Binaries/
 Saved/
 Intermediate/
 DerivedDataCache/
@@ -7,4 +17,7 @@ DerivedDataCache/
 *.tmp
 *.zip
 *.exe
-/AniAniTest/Content/Weapon_Pack/Weapons_Kit_Build1Data.uasset
+
+#특정 폴더 무시
+/AniAniTest/Content/Weapon_Pack/
+/FirstGame/Content/Weapon_Pack/
