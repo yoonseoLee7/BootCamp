@@ -7,3 +7,4 @@ DerivedDataCache/
 *.tmp
 *.zip
 *.exe
+/AniAniTest/Content/Weapon_Pack/Weapons_Kit_Build1Data.uasset
